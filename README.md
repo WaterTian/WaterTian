@@ -1,4 +1,4 @@
-<h1 align="center">Water Tian · 田水</h1>
+<h1 align="center">Water Tian</h1>
 
 <p align="center">
   <sub>Creative technologist from northwest China · now in Beijing</sub><br/>
