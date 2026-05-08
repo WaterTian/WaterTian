@@ -15,6 +15,7 @@
 
 <br/>
 
+<div align="center">
 <table>
   <tr>
     <td valign="top" width="33%" align="center">
@@ -31,6 +32,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ## Earlier Work
 
