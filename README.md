@@ -15,6 +15,23 @@
 
 <br/>
 
+<table>
+  <tr>
+    <td valign="top" width="33%" align="center">
+      <a href="https://github.com/WaterTian/cc-bot"><b>cc-bot</b></a><br/>
+      <sub>Develop project from group chat<br/>— by Claude Code<br/><br/>接 AI 进群里开发项目</sub>
+    </td>
+    <td valign="top" width="33%" align="center">
+      <a href="https://github.com/WaterTian/cc-hud"><b>cc-hud</b></a><br/>
+      <sub>Compact Claude Code statusline<br/>zero-dep · Windows-safe<br/><br/>精简 CC 状态栏</sub>
+    </td>
+    <td valign="top" width="33%" align="center">
+      <a href="https://github.com/WaterTian/wechat-devtools-mcp"><b>wechat-devtools-mcp</b></a><br/>
+      <sub>WeChat DevTools<br/>MCP &amp; Skills<br/><br/>微信开发者工具</sub>
+    </td>
+  </tr>
+</table>
+
 ## Earlier Work
 
 - [sint.js](https://github.com/WaterTian/sint.js) — HTML5 game framework
