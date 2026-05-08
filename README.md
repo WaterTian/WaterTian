@@ -15,7 +15,7 @@
 
 <br/>
 
-## ▣ Now Building — Claude Code Ecosystem
+## Now Building — Claude Code Ecosystem
 
 <table>
   <tr>
@@ -34,13 +34,13 @@
   </tr>
 </table>
 
-## ◧ Earlier Work
+## Earlier Work
 
 - [sint.js](https://github.com/WaterTian/sint.js) — HTML5 game framework
 - [FlowerVoice](https://github.com/WaterTian/FlowerVoice) — 植物声音感应交互装置（C++）
 - [SintCupApp](https://github.com/WaterTian/SintCupApp) — 中控界面
 
-## ◐ Skills
+## Skills
 
 `Unity3D` · `C#` · `WebGL` · `JavaScript` · `Openframeworks` · `C++` · `Arduino` · `PureData` · `User Experience` · `Motion Graphic`
 
