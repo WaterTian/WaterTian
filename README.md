@@ -40,12 +40,11 @@
 - [FlowerVoice](https://github.com/WaterTian/FlowerVoice) — 植物声音感应交互装置（C++）
 - [SintCupApp](https://github.com/WaterTian/SintCupApp) — 中控界面
 
-## ◐ Stack
+## ◐ Skills
 
-**Code** — `JavaScript` · `TypeScript` · `Node.js` · `C#` · `C++`
-**Creative tech** — `Unity3D` · `WebGL` · `Openframeworks` · `PureData` · `Arduino`
-**AI / Agent** — `Claude Code` · `MCP`
-**Design** — User Experience · Motion Graphics · Data visualization · Computer graphics
+`Unity3D` · `C#` · `WebGL` · `JavaScript` · `Openframeworks` · `C++` · `Arduino` · `PureData` · `User Experience` · `Motion Graphic`
+
+<sub>Currently also: `TypeScript` · `Node.js` · `Claude Code` · `MCP`</sub>
 
 ---
 
