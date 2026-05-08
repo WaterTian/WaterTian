@@ -42,7 +42,7 @@
 
 ## Skills
 
-`Unity3D` · `C#` · `WebGL` · `JavaScript` · `Openframeworks` · `C++` · `Arduino` · `PureData` · `User Experience` · `Motion Graphic`
+`Unity3D` · `C#` · `WebGL` · `JavaScript` · `Openframeworks` · `C++` · `Arduino` · `PureData` · `Motion Graphic`
 
 <sub>Currently also: `TypeScript` · `Node.js` · `Claude Code` · `MCP`</sub>
 
