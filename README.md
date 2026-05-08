@@ -42,7 +42,10 @@
 
 ## ◐ Stack
 
-`JavaScript` · `TypeScript` · `Node.js` · `Claude Code` · `MCP` · Creative coding (data viz · computer graphics)
+**Code** — `JavaScript` · `TypeScript` · `Node.js` · `C#` · `C++`
+**Creative tech** — `Unity3D` · `WebGL` · `Openframeworks` · `PureData` · `Arduino`
+**AI / Agent** — `Claude Code` · `MCP`
+**Design** — User Experience · Motion Graphics · Data visualization · Computer graphics
 
 ---
 
