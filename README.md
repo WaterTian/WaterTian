@@ -1,7 +1,7 @@
 <h1 align="center">Water Tian</h1>
 
 <p align="center">
-  <sub>Creative technologist from northwest China · now in Beijing</sub><br/>
+  <sub>Creative technologist & digital art from northwest China · now in Beijing</sub><br/>
   <sub>Currently building Claude Code plugins & MCP tools</sub>
 </p>
 
