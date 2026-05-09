@@ -38,13 +38,13 @@
 
 - [sint.js](https://github.com/WaterTian/sint.js) — HTML5 game framework
 - [FlowerVoice](https://github.com/WaterTian/FlowerVoice) — 植物声音感应交互装置（C++）
-- [SintCupApp](https://github.com/WaterTian/SintCupApp) — 中控界面
+- [SintCupApp](https://github.com/WaterTian/SintCupApp) — 2D引擎界面
 
 ## Skills
 
-`Unity3D` · `C#` · `WebGL` · `JavaScript` · `Openframeworks` · `C++` · `Python` · `Arduino` · `PureData` · `Motion Graphic`
+`Unity3D` · `C#` · `WebGL` · `GLSL` · `JavaScript` · `TypeScript` · `Openframeworks` · `C++` · `Python` · `Arduino` · `PureData` · `Motion Graphic`
 
-<sub>Currently also: `TypeScript` · `Node.js` · `Claude Code` · `MCP`</sub>
+<sub>Currently also: `Node.js` · `Claude Code` · `MCP`</sub>
 
 ---
 
