@@ -2,7 +2,7 @@
 
 <p align="center">
   <sub>Creative technologist & digital art from northwest China · now in Beijing</sub><br/>
-  <sub>Currently building Claude Code plugins & MCP tools</sub>
+  <sub>Currently building <a href="https://github.com/WaterTian/sintbot">SintBot</a>, Claude Code plugins &amp; MCP tools</sub>
 </p>
 
 <p align="center">
@@ -11,6 +11,18 @@
   <a href="https://sintlab.com">sintlab.com</a>
   &nbsp;·&nbsp;
   <a href="https://x.com/water_tian">@water_tian</a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/WaterTian/sintbot"><img src="https://raw.githubusercontent.com/WaterTian/sintbot/main/docs/assets/banner.png" alt="SintBot" width="640"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/WaterTian/sintbot"><b>SintBot</b></a> — a self-hosted daemon that puts Claude Code and Codex in your team's group chat.<br/>
+  <sub>One group, one project · any model, one memory · Feishu, Slack &amp; WeCom · MIT</sub><br/>
+  <sub>一群一项目,模型随时换,记忆不丢 · <a href="https://sintbot.com">sintbot.com</a></sub>
 </p>
 
 <br/>
