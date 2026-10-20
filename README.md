@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/WaterTian/sintbot"><b>SintBot</b></a> — a self-hosted daemon that puts Claude Code and Codex in your team's group chat.<br/>
-  <sub>One group, one project · any model, one memory · Feishu, Slack &amp; WeCom · MIT</sub><br/>
+  <sub>One group, one project · any model, one memory · Slack, Feishu &amp; WeCom · MIT</sub><br/>
   <sub>一群一项目,模型随时换,记忆不丢 · <a href="https://sintbot.com">sintbot.com</a></sub>
 </p>
 
@@ -35,7 +35,7 @@
     </td>
     <td valign="top" width="33%" align="center">
       <a href="https://github.com/WaterTian/cc-bot"><b>cc-bot</b></a><br/>
-      <sub>Develop project from group chat<br/>接 AI 进群里开发项目</sub>
+      <sub>Develop projects from group chat<br/>接 AI 进群里开发项目</sub>
     </td>
     <td valign="top" width="33%" align="center">
       <a href="https://github.com/WaterTian/cc-hud"><b>cc-hud</b></a><br/>
@@ -53,7 +53,7 @@
 
 ## Skills
 
-`Unity3D` · `C#` · `WebGL` · `GLSL` · `JavaScript` · `TypeScript` · `Openframeworks` · `C++` · `Python` · `Arduino` · `PureData` · `Motion Graphic`
+`Unity3D` · `C#` · `WebGL` · `GLSL` · `JavaScript` · `TypeScript` · `openFrameworks` · `C++` · `Python` · `Arduino` · `PureData` · `Motion Graphics`
 
 <sub>Currently also: `Node.js` · `Claude Code` · `MCP`</sub>
 
