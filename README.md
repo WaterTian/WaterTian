@@ -1,8 +1,7 @@
 <h1 align="center">Water Tian</h1>
 
 <p align="center">
-  <sub>Creative technologist & digital art from northwest China · now in Beijing</sub><br/>
-  <sub>Currently building <a href="https://github.com/WaterTian/sintbot">SintBot</a>, Claude Code plugins &amp; MCP tools</sub>
+  <sub>Creative technologist & digital art from northwest China · now in Beijing</sub>
 </p>
 
 <p align="center">
