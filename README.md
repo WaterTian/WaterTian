@@ -15,11 +15,11 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/WaterTian/sintbot"><picture><source srcset="https://raw.githubusercontent.com/WaterTian/sintbot/main/docs/assets/hero.svg" type="image/svg+xml"><img src="https://raw.githubusercontent.com/WaterTian/sintbot/main/docs/assets/banner.png" alt="SintBot — the group-project AI daemon, running on your own machine" width="880"></picture></a>
+  <a href="https://github.com/sintlab/sintbot"><picture><source srcset="https://raw.githubusercontent.com/sintlab/sintbot/main/docs/assets/hero.svg" type="image/svg+xml"><img src="https://raw.githubusercontent.com/sintlab/sintbot/main/docs/assets/banner.png" alt="SintBot — the group-project AI daemon, running on your own machine" width="880"></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/WaterTian/sintbot"><b>SintBot</b></a> — a self-hosted daemon that puts Claude Code and Codex in your team's group chat.<br/>
+  <a href="https://github.com/sintlab/sintbot"><b>SintBot</b></a> — a self-hosted daemon that puts Claude Code and Codex in your team's group chat.<br/>
   <sub>One group, one project · any model, one memory · Slack, Feishu &amp; WeCom · MIT</sub><br/>
   <sub>一群一项目,模型随时换,记忆不丢 · <a href="https://sintbot.com">sintbot.com</a></sub>
 </p>
