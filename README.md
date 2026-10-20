@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/WaterTian/sintbot"><img src="https://raw.githubusercontent.com/WaterTian/sintbot/main/docs/assets/banner.png" alt="SintBot" width="640"></a>
+  <a href="https://github.com/WaterTian/sintbot"><picture><source srcset="https://raw.githubusercontent.com/WaterTian/sintbot/main/docs/assets/hero.svg" type="image/svg+xml"><img src="https://raw.githubusercontent.com/WaterTian/sintbot/main/docs/assets/banner.png" alt="SintBot — the group-project AI daemon, running on your own machine" width="880"></picture></a>
 </p>
 
 <p align="center">
