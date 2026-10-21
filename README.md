@@ -1,7 +1,7 @@
 <h1 align="center">Water Tian</h1>
 
 <p align="center">
-  <sub>Creative technologist & digital art from northwest China · now in Beijing</sub>
+  <sub>Creative technologist &amp; digital artist from northwest China · now in Beijing</sub>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
   <tr>
     <td valign="top" width="33%" align="center">
       <a href="https://github.com/WaterTian/wechat-devtools-mcp"><b>wechat-devtools-mcp</b></a><br/>
-      <sub>WeChat DevTools<br/>MCP &amp; Skills<br/><br/>微信开发者工具</sub>
+      <sub>MCP &amp; Skills for WeChat DevTools<br/>微信开发者工具 MCP</sub>
     </td>
     <td valign="top" width="33%" align="center">
       <a href="https://github.com/WaterTian/cc-bot"><b>cc-bot</b></a><br/>
