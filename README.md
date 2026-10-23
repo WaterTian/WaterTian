@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/sintlab/sintbot"><b>SintBot</b></a> — a self-hosted daemon that puts Claude Code and Codex in your team's group chat.<br/>
-  <sub>One group, one project · any model, one memory · Slack, Feishu &amp; WeCom · MIT</sub><br/>
+  <sub>One group, one project · any model, one memory · Slack, Feishu &amp; WeCom · PolyForm Shield</sub><br/>
   <sub>一群一项目,模型随时换,记忆不丢 · <a href="https://sintbot.com">sintbot.com</a></sub>
 </p>
 
