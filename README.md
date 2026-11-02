@@ -14,9 +14,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/sintlab/sintbot"><picture><source srcset="https://raw.githubusercontent.com/sintlab/sintbot/main/docs/assets/hero.svg" type="image/svg+xml"><img src="https://raw.githubusercontent.com/sintlab/sintbot/main/docs/assets/banner.png" alt="SintBot — the group-project AI daemon, running on your own machine" width="880"></picture></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/sintlab/sintbot"><b>SintBot</b></a> — a self-hosted daemon that puts Claude Code and Codex in your team's group chat.<br/>
