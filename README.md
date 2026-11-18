@@ -43,8 +43,8 @@
 
 `Unity3D` · `C#` · `WebGL` · `GLSL` · `JavaScript` · `TypeScript` · `openFrameworks` · `C++` · `Python` · `Arduino` · `PureData` · `Motion Graphics`
 
-<sub>Currently also: `Node.js` · `Claude Code` · `MCP`</sub>
+<sub>Currently also: `AI Agent` · `Personal Agent` · `MCP`</sub>
 
 ---
 
-<p align="center"><sub>Open to interesting collaborations · 北京</sub></p>
+<p align="center"><sub>Open to interesting collaborations</sub></p>
