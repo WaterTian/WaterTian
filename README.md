@@ -1,7 +1,7 @@
 <h1 align="center">Water Tian</h1>
 
 <p align="center">
-  <sub>Creative technologist &amp; digital artist from northwest China · now in Beijing</sub>
+  <sub>Creative technologist &amp; digital artist</sub>
 </p>
 
 <p align="center">
