@@ -7,8 +7,6 @@
 <p align="center">
   <a href="https://watertian.com">watertian.com</a>
   &nbsp;·&nbsp;
-  <a href="https://sintlab.com">sintlab.com</a>
-  &nbsp;·&nbsp;
   <a href="https://x.com/water_tian">@water_tian</a>
 </p>
 
